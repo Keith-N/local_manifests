@@ -11,7 +11,7 @@
 <project name="CM-Shield/android_device_nvidia_shieldtablet" path="device/nvidia/shieldtablet" remote="github" revision="cm-12.0" />
 <project name="CM-Shield/android_kernel_nvidia_shieldtablet" path="kernel/nvidia/shieldtablet" remote="github" revision="cm-12.0" />
 <project name="CM-Shield/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" revision="cm-12.0" />
-
+<project name="CM-Shield/android_device_nvidia_wx_na_wf" path="device/nvidia/wx_na_wf" remote="github" revision="cm-12.0" />
 
 </manifest>
 
