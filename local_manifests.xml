@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+<!--
+
+_______________________________M8 Vendor/Kernel(s)__________________________________________________________
+-->
+
 <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1" />
-<project name="xboxfanj/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" revision="lollipop-mr1" />
+<project name="B14CKB1RD-Kernel/B14CKB1RD_kernel_m8" path="kernel/htc/blkbrdm8" remote="github" revision="L5" />
+<project name="CandyDevices/kernel_htc_msm8974" path="kernel/htc/candym8" remote="github" revision="c5.1" />
+
+<!--
+
+___________________________SHIELD Kernel/Device/Vendor____________________________________________________
+
+-->
+
+<project name="CM-Shield/proprietary_vendor_nvidia" path="vendor/nvidia" revision="cm-12.1" />
+<project name="CM-Shield/android_device_nvidia_shieldtablet" path="device/nvidia" revision="cm-12.1" />
+<project name="CM-Shield/android_kernel_nvidia_shieldtablet" path="kernel/nvidia" revision="cm-12.1" />
 
 </manifest>
 
