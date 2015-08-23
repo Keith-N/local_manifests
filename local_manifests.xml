@@ -17,8 +17,8 @@ ___________________________SHIELD Kernel/Device/Vendor__________________________
 -->
 
 <project name="CM-Shield/proprietary_vendor_nvidia" path="vendor/nvidia" revision="cm-12.1" />
-<project name="CM-Shield/android_device_nvidia_shieldtablet" path="device/nvidia" revision="cm-12.1" />
-<project name="CM-Shield/android_kernel_nvidia_shieldtablet" path="kernel/nvidia" revision="cm-12.1" />
+<project name="CM-Shield/android_device_nvidia_shieldtablet" path="device/nvidia/shieldtablet" revision="cm-12.1" />
+<project name="CM-Shield/android_kernel_nvidia_shieldtablet" path="kernel/nvidia/shieldtablet" revision="cm-12.1" />
 
 </manifest>
 
