@@ -6,7 +6,7 @@
 _______________________________M8 Vendor/Kernel(s)__________________________________________________________
 -->
 
-<project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.3" />
+<project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-13.0" />
 
 
 </manifest>
