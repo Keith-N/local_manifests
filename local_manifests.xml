@@ -9,8 +9,12 @@ _______________________________M8 Vendor/Kernel(s)______________________________
 <project name="Team-M8/android_kernel_htc_msm8974" path="kernel/htc/msm8974M8" remote="github" revision="M" />
 
 <!--
-_______________________________ST Vendor/Kernel(s)__________________________________________________________
+_______________________________ST Device/Vendor/Kernel(s)_____________________________________________________
 -->
+
+<project name="CM-Shield/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" revision="cm-13.0" />
+<project name="CM-Shield/android_kernel_nvidia_shieldtablet" path="kernel/nvidia/shieldtablet" remote="github" revision="cm-13.0" />
+<project name="CM-Shield/android_device_nvidia_shieldtablet" path="device/nvidia/shieldtablet" remote="github" revision="cm-13.0" />
 
 </manifest>
 
