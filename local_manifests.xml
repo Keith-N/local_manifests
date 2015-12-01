@@ -2,12 +2,15 @@
 <manifest>
 
 <!--
-
 _______________________________M8 Vendor/Kernel(s)__________________________________________________________
 -->
 
 <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-13.0" />
+<project name="Team-M8/android_kernel_htc_msm8974" path="kernel/htc/msm8974M8" remote="github" revision="M" />
 
+<!--
+_______________________________ST Vendor/Kernel(s)__________________________________________________________
+-->
 
 </manifest>
 
